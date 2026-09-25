@@ -1,6 +1,6 @@
 ## 👨🏻‍💻Olá, sou o ​​Leandro Marc🎖️
 
-<img src="leleco-cat.png" align="right" alt="leleco-cat" style="width: 40%; min-width: 150px; max-width: 250px; height: auto; margin-left: 15px;">
+<img src="leleco-cat.png" align="right" alt="leleco-cat" style="width: 30%; min-width: 150px; max-width: 250px; height: auto; margin-left: 15px;">
 
 Desde criança sou apaixonado por computação. Essa proximidade começou aos 9 anos, quando ganhei meu primeiro computador e despertei uma imensa curiosidade pela área. Desde então, meu fascínio só cresceu. Passei a me aprofundar no ambiente de hardware, analisando requisitos e montando máquinas de forma autodidata. A decisão de crescer na área foi quando percebi que conseguia **resolver pequenos problemas, configurar sistemas e auxiliar outras pessoa.** Sempre ciente da necessidade de evoluir, hoje curso **Tecnólogo em Análise e Desenvolvimento de Sistemas,** mas nunca me limito ao cenário acadêmico, buscando sempre novos métodos para expandir meu conhecimento.
 
@@ -103,8 +103,23 @@ Desde criança sou apaixonado por computação. Essa proximidade começou aos 9 
 <br/>
 <br/>
 
+### 🤖 Estatísticas
 
-
+<p>
+<img
+      align="left"
+      alt ="GitHub Status"
+      height = "200"
+      style = "padding-right: 10px;"
+src="https://github-stats-extended.vercel.app/api?username=leandro-msp&show_icons=true&theme=dracula&include_all_comits=true&count_private=true&locate=pt-br"
+/>     
+<img  
+      align="left"
+      alt ="GitHub Status"
+      height = "200"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=leandro-msp&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
+</p>
            
           
           
