@@ -1,4 +1,4 @@
-## 👨🏻‍💻Olá, sou o ​​Leandro Marc🎖️
+## 👨🏻‍💻Olá, sou o ​​Leandro🎖️
 
 <img src="leleco-cat.png" align="right" alt="leleco-cat" style="width: 30%; min-width: 150px; max-width: 250px; height: auto; margin-left: 15px;">
 
@@ -6,7 +6,9 @@ Desde criança sou apaixonado por computação. Essa proximidade começou aos 9 
 
 ### ☝️🤓​​ Sobre Mim
 * 🌱 **O que estou estudando:** Fundamentos de Arquitetura de Software, Arquitetura de Computadores, Padrão MVC e Orientação a Objetos aplicada a PHP , e Desenvolvimento Web.
-* ⚙️ **O que estou desenvolvendo:** Registros progressivos da minha evolução, unificando conceitos e aplicando-os através de projetos práticos.
+* ⚙️ **O que estou desenvolvendo:** Registros progressivos da minha evolução, unificando conceitos e aplicando-os através de projetos práticos. Veja meus principais projetos no momento:
+  * **[Oficina Dev](https://github.com/leandro-msp/oficina-dev)** *(Registros do processo de aprendizagem)*
+  * **[Curso de Desenvolvimento com PHP e MySQL](https://github.com/leandro-msp/curso-php-mysql)** *(Aplicação dos conceitos do curso de Desenvolvimento Web utilizando PHP, MySQL, estrutura POO e criação de Projetos Práticos)*
 * 🔍​ **Colaboração:** Aberto a projetos e trocas de conhecimento sobre desenvolvimento back-end e automação.
 * 💼​ **Mercado:** Em busca da primeira oportunidade para aplicar e adquirir competências, compartilhar experiência e me tornar um excelente profissional.
 * ⚡ **Curiosidades:** Nas horas vagas gosto de jogar games dos tipos: FPS, Simulação, Ação e Aventura em mundo aberto, RPG. Embora eu goste de diversos gêneros musicais, sou totalmente adepto do Rock 🤘🎸
