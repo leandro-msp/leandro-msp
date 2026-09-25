@@ -1,5 +1,7 @@
 ## 👨🏻‍💻Olá, sou o ​​Leandro Marc🎖️
 
+<img src="leleco-cat.png" align="right" alt="leleco-cat" style="width: 40%; min-width: 150px; max-width: 250px; height: auto; margin-left: 15px;">
+
 Desde criança sou apaixonado por computação. Essa proximidade começou aos 9 anos, quando ganhei meu primeiro computador e despertei uma imensa curiosidade pela área. Desde então, meu fascínio só cresceu. Passei a me aprofundar no ambiente de hardware, analisando requisitos e montando máquinas de forma autodidata. A decisão de crescer na área foi quando percebi que conseguia **resolver pequenos problemas, configurar sistemas e auxiliar outras pessoa.** Sempre ciente da necessidade de evoluir, hoje curso **Tecnólogo em Análise e Desenvolvimento de Sistemas,** mas nunca me limito ao cenário acadêmico, buscando sempre novos métodos para expandir meu conhecimento.
 
 ### 🤓​☝️​ Sobre Mim
@@ -100,6 +102,7 @@ Desde criança sou apaixonado por computação. Essa proximidade começou aos 9 
 
 <br/>
 <br/>
+
 
 
            
