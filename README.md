@@ -4,9 +4,9 @@
 
 Desde criança sou apaixonado por computação. Essa proximidade começou aos 9 anos, quando ganhei meu primeiro computador e despertei uma imensa curiosidade pela área. Desde então, meu fascínio só cresceu. Passei a me aprofundar no ambiente de hardware, analisando requisitos e montando máquinas de forma autodidata. A decisão de crescer na área foi quando percebi que conseguia **resolver pequenos problemas, configurar sistemas e auxiliar outras pessoa.** Sempre ciente da necessidade de evoluir, hoje curso **Tecnólogo em Análise e Desenvolvimento de Sistemas,** mas nunca me limito ao cenário acadêmico, buscando sempre novos métodos para expandir meu conhecimento.
 
-### 🤓​☝️​ Sobre Mim
+### ☝️🤓​​ Sobre Mim
 * 🌱 **O que estou estudando:** Fundamentos de Arquitetura de Software, Arquitetura de Computadores, Padrão MVC e Orientação a Objetos aplicada a PHP , e Desenvolvimento Web.
-* 🔭 **O que estou desenvolvendo:** Registros progressivos da minha evolução, unificando conceitos e aplicando-os através de projetos práticos.
+* ⚙️ **O que estou desenvolvendo:** Registros progressivos da minha evolução, unificando conceitos e aplicando-os através de projetos práticos.
 * 🔍​ **Colaboração:** Aberto a projetos e trocas de conhecimento sobre desenvolvimento back-end e automação.
 * 💼​ **Mercado:** Em busca da primeira oportunidade para aplicar e adquirir competências, compartilhar experiência e me tornar um excelente profissional.
 * ⚡ **Curiosidades:** Nas horas vagas gosto de jogar games dos tipos: FPS, Simulação, Ação e Aventura em mundo aberto, RPG. Embora eu goste de diversos gêneros musicais, sou totalmente adepto do Rock 🤘🎸
