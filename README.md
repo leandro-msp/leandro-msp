@@ -113,13 +113,13 @@ Desde criança sou apaixonado por computação. Essa proximidade começou aos 9 
       alt ="GitHub Status"
       height = "200"
       style = "padding-right: 10px;"
-src="https://github-stats-extended.vercel.app/api?username=leandro-msp&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true&locate=pt-br"
+src="https://github-stats-extended.vercel.app/api?username=leandro-msp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locate=pt-br"
 />     
 <img  
       align="left"
       alt ="GitHub Status"
       height = "200"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=leandro-msp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=leandro-msp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"
 />
 </p>
            
