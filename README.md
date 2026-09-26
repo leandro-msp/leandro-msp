@@ -14,12 +14,11 @@ Desde criança sou apaixonado por computação. Essa proximidade iniciou quando 
 * ⚡ **Curiosidades:** Nas horas vagas gosto de jogar games dos tipos: FPS, Simulação, Ação e Aventura em mundo aberto, RPG. Embora eu goste de diversos gêneros musicais, sou totalmente adepto do Rock 🤘🎸
 
 #### 🌐 Minhas Redes Sociais
-<div> 
- <a href = "https://www.linkedin.com/in/leandro-marc/" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href = "mailto:leandromarcjt@gmail.com" target="_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href = "https://www.reddit.com/user/Sorry_Possession5762/" target="_blank"><img src = "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
- <a href = "https://github.com/leandro-msp" target="_blank"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-marc/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandromarcjt@gmail.com)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Sorry_Possession5762/)
+[![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandro-msp)
+
 
 ---
 ### 💻Ferramentas e Tecnologias  já exploradas e em desenvolvimento 
