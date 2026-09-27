@@ -19,7 +19,7 @@ Desde criança, sou apaixonado por computação. Essa proximidade iniciou quando
 
 <!--gif-cat-leleco-->
 
- <img  src="leleco-cat-gif.gif" align="right" alt="leleco-cat" width="32%" height="auto">
+ <img  src="leleco-cat-gif.gif" align="right" alt="leleco-cat" width="30%" height="auto">
 
 * 🌱 **Estudando:** Fundamentos de arquitetura de software, algoritmos e lógica, estrutura de dados, processos de automação, e desenvolvimento Web.
 * ⚙️ **Desenvolvendo:** Registrando minha evolução, realizando exercícios e pequenos projetos com conceitos captados.
