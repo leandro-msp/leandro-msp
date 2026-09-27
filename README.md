@@ -1,6 +1,6 @@
 ## 👨🏻‍💻Olá, sou o ​​Leandro🎖️
 
-<img src="leleco-cat-gif.gif" align="right" alt="leleco-cat" width="30%" height="auto">
+<img src="leleco-cat-gif.gif" align="right" alt="leleco-cat" width="28%" height="auto">
 
 Desde criança sou apaixonado por computação. Essa proximidade iniciou quando ganhei meu primeiro computador e despertei uma imensa curiosidade. Comecei a me aprofundar no cenário, e passei ter interações com hardware, analisando requisitos e montando máquinas de forma autodidata. A decisão de avançar na área foi ao perceber que conseguia **resolver pequenos problemas, configurar sistemas e auxiliar outras pessoas.** Sempre ciente da necessidade de evoluir, hoje curso **Tecnólogo em Análise e Desenvolvimento de Sistemas.** Além do ambiente acadêmico, aproveito todos os métodos que possam agregar em meu conhecimento.
 
