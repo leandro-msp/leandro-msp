@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻Olá, seja bem-vindo(a)! Meu nome é Leandro 🎖️
 
-Podem me chamar de Leleco, se quiser! 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=18&duration=3000&pause=500&color=C34EF7&center=true&width=550&height=30&lines=Podem+me+chamar+de+Leleco%2C+se+quiser!;Sou+estudante+de+Desenvolvimento+Full+Stack+e+Automa%C3%A7%C3%B5es)](https://git.io/typing-svg)
 
 Desde criança, sou apaixonado por computação. Essa proximidade iniciou quando ganhei meu primeiro computador e despertei uma imensa curiosidade. Comecei a me aprofundar no cenário, e passei a ter interações com hardware, analisando requisitos e montando máquinas como autodidata. Ciente da necessidade de evoluir, hoje curso **Tecnólogo em Análise e Desenvolvimento de Sistemas.** Além do ambiente acadêmico, aproveito todos os métodos que possam agregar ao meu aprendizado.
 
@@ -64,9 +64,11 @@ Desde criança, sou apaixonado por computação. Essa proximidade iniciou quando
 </div>
 
 ---
+<!--ESTATÍSTICAS-->
+
 <div align="center">
  
-### 📊 Estatísticas
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Warp&letterSpacing=2px&duration=4000&pause=500&color=678AF7&center=true&width=550&height=30&lines=%F0%9F%93%8A+Estat%C3%ADsticas+)](https://git.io/typing-svg)
 
 <table>
  <tr>
