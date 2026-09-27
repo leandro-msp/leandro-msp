@@ -2,7 +2,7 @@
 
 <img src="leleco-cat-gif.gif" align="right" alt="leleco-cat" width="25%" height="auto">
 
-Desde criança sou apaixonado por computação. Essa proximidade iniciou quando ganhei meu primeiro computador e despertei uma imensa curiosidade. Comecei a me aprofundar no cenário, e passei ter interações com hardware, analisando requisitos e montando máquinas de forma autodidata. A decisão de avançar na área foi ao perceber que conseguia **resolver pequenos problemas, configurar sistemas e auxiliar outras pessoas.** Sempre ciente da necessidade de evoluir, hoje curso **Tecnólogo em Análise e Desenvolvimento de Sistemas.** Além do ambiente acadêmico, aproveito todos os métodos que possam agregar em meu conhecimento.
+Desde criança sou apaixonado por computação. Essa proximidade iniciou quando ganhei meu primeiro computador e despertei uma imensa curiosidade. Comecei a me aprofundar no cenário, e passei ter interações com hardware, analisando requisitos e montando máquinas de forma autodidata. A decisão de avançar na área foi ao perceber que conseguia **resolver pequenos problemas, configurar sistemas e auxiliar outras pessoas.** Sempre ciente da necessidade de evoluir, hoje curso **Tecnólogo em Análise e Desenvolvimento de Sistemas.** Além do ambiente acadêmico, aproveito todos os métodos que possam agregar ao meu aprendizado.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-marc/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandromarcjt@gmail.com)
